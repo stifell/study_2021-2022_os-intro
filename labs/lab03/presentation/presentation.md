@@ -4,7 +4,7 @@ lang: ru-RU
 title: Лабораторная работа №3
 author: Матюшкин Денис Владимирович (НПИбд-02-21)
 institute: RUDN University, Moscow, Russian Federation
-date: 28.04.2022
+date: 29.04.2022
 
 ## Formatting
 toc: false
